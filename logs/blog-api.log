@@ -1,0 +1,9 @@
+2025-05-15T16:14:26.488+05:45  INFO 3448 --- [Blog] [main] com.example.Blog.BlogApplicationTests    : Starting BlogApplicationTests using Java 24 with PID 3448 (started by Kritesh Thapa in C:\allfile8\coding\backend\spring\Blog)
+2025-05-15T16:14:26.494+05:45  INFO 3448 --- [Blog] [main] com.example.Blog.BlogApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-05-15T16:14:27.188+05:45  INFO 3448 --- [Blog] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-15T16:14:27.253+05:45  INFO 3448 --- [Blog] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interface.
+2025-05-15T16:14:27.669+05:45  INFO 3448 --- [Blog] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-15T16:14:27.770+05:45  INFO 3448 --- [Blog] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-15T16:14:27.853+05:45  INFO 3448 --- [Blog] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-05-15T16:14:28.290+05:45  INFO 3448 --- [Blog] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-15T16:14:28.321+05:45  INFO 3448 --- [Blog] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
