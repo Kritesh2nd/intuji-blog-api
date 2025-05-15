@@ -42,6 +42,6 @@ This is a RESTful Blog API built using **Spring Boot**, following a clean and mo
 ### Clone the Project
 
 ```bash
-git clone https://github.com/your-username/blog-api.git
-cd blog-api
+git clone https://github.com/Kritesh2nd/intuji-blog-api
+cd intuji-blog-api
 ```
